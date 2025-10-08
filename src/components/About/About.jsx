@@ -135,7 +135,7 @@ function About() {
         </div>
         <hr />
         <div className="about-achievement aa3">
-          <a href="../src/assets/cv.pdf" download>CV <RiDownload2Fill/>
+          <a href="../src/assets/cv.pdf" alt="Arun Suresh CV" download>CV <RiDownload2Fill/>
           <p>Download Here</p>
           </a>
         </div>
